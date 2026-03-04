@@ -33,7 +33,4 @@ ChatBox uses a weak encryption (XOR encryption). Learn more about it at "https:/
 The standard encryption key is 934028. To comunicate safely with the user, its highly suggested to change it. You can find the key at the lines 226, 230, 242, 247.
 After you find it, the only thing to do is just change it in all the lines (obviously it has to be the same password in every line)
 
-
 Given the overall structure of the program, its not suggested to use it in real life scenarios, but in developing enviroments only.
-
-
