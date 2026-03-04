@@ -1,3 +1,12 @@
+.----------------------------------------------------------.
+|   _________ .__            __ __________                 |
+|   \_   ___ \|  |__ _____ _/  |\______   \ _______  ___   |
+|   /    \  \/|  |  \\__  \\   __\    |  _//  _ \  \/  /   |
+|   \     \___|   Y  \/ __ \|  | |    |   (  <_> >    <    |
+|    \______  /___|  (____  /__| |______  /\____/__/\_ \   |
+|           \/     \/     \/            \/            \/   |
+*----------------------------------------------------------*
+
 ChatBox is a cmd based chatting software. By default it connects to port 8080 and to your local ip (127.0.0.1), to connect
 to a specific host you need to change the host and port variables values, they can be found at lines 15 and 16 of the main
 script. Specifically you need to change the host variable value from your local ip to the one you're trying to connect to
@@ -23,3 +32,4 @@ ChatBox uses a weak encryption (XOR encryption). Learn more about it at "https:/
 
 
 Given the overall structure of the program, its not suggested to use it in real life scenarios, but in developing enviroments only.
+
