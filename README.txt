@@ -18,7 +18,7 @@ Learn more about it at "https://en.wikipedia.org/wiki/Port_forwarding".
 To do port forwarding on a specific port you need to:
 
 1) open your browser and access your router panel on 192.168.1.0 or 192.168.1.1 
-2) add the username and password (wich you can find behind your router (where's the wifi password as well))
+2) access with the username and password of your router
 3) search the section called Port Forwarding, NAT or Virtual Server and add a new rule:
 
 # External/Internal Port: Enter the port used by your script (e.g., 5000).
@@ -34,3 +34,4 @@ The standard encryption key is 934028. To comunicate safely with the user, its h
 After you find it, the only thing to do is just change it in all the lines (obviously it has to be the same password in every line)
 
 Given the overall structure of the program, its not suggested to use it in real life scenarios, but in developing enviroments only.
+
